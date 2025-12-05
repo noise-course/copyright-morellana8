@@ -16,7 +16,7 @@ This is what it outputted:
 
 # Outcome:
 ![Outcome](/files/CopyrightWarning.png)
-Immediately, I got a message saying that the 30 second video of Alesis was flagged for copyrighted material, but it was not taken down and it won't affect my channel. 
+Immediately, I got a message saying that the 30 second video of Alesis was flagged for copyrighted material, but it was not taken down and it won't affect my channel. The other two videos that were uploaded were not affected.
 
 # 4. Legal Analysis
 For both the 5-second and 30-second uploads of “Alesis,” the fair use factors weigh mostly against the use: the clips were non-transformative, taken from a highly creative song, and used without commentary or analysis. The short length of the 5-second clip slightly helps under the “amount used” factor, but even brief excerpts can still be considered the core of a song. The 30-second clip weighs even more strongly against fair use because it uses a more substantial portion. Neither upload was commercial or likely to harm the market for the original, but overall neither would qualify as fair use under a traditional legal analysis.
